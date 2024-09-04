@@ -1,0 +1,18 @@
+{
+  "techs_1": [
+    { "name": "Laravel Framework", "rate": "60"},
+    { "name": "JavaScript", "rate": "30" },
+    { "name": "ReactJS", "rate": "35" },
+    { "name": "VueJS", "rate": "50" },
+    { "name": "NodeJS", "rate": "20" },
+    { "name": "HTML", "rate": "65" }
+  ],
+  "techs_2": [
+    { "name": "CSS", "rate": "45" },
+    { "name": "SQL Server", "rate": "35" },
+    { "name": "MySQL", "rate": "50" },
+    { "name": "API", "rate": "30" },
+    { "name": "PHP", "rate": "40"},
+    { "name": "TAILWIND", "rate": "45"}
+  ]
+}

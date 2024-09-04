@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "company": "Currently none",
+      "title": "Job 1",
+      "duration": "Duration From - Present",
+      "tasks": [
+        "No record"
+      ]
+    },
+    {
+      "company": "Currently none",
+      "title": "Job 2",
+      "duration": "Duration From - To",
+      "tasks": [
+       "No record"
+      ]
+    },
+    {
+      "company": "Currently none",
+      "title": "Job 3",
+      "duration": "Duration From - To",
+      "tasks": [
+        "No record"
+      ]
+    }
+  ]
+}
